@@ -89,4 +89,4 @@ Please make use of the throwBack function for this question*/
 function unite(arr){
     return throwBack(arr).join();
 }
-console.log(unite(["up", "you", "give", "gonna", "nsever"]));
+console.log(unite(["up", "you", "give", "gonna", "never"]));
